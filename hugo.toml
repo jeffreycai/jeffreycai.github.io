@@ -22,7 +22,7 @@ theme = "DoIt"
     name = "Posts"
     url = "/posts/"
     # title will be shown when you hover on this menu link
-    title = ""
+    title = "Blog posts"
     weight = 1
   [[menu.main]]
     identifier = "tags"
